@@ -404,7 +404,7 @@ p span {
 .oswald-main h1 {
   font-family: 'Oswald', sans-serif;
   color: white;
-  font-weight: 300;
+  font-weight: 400;
   font-size: 36px;
   text-transform: uppercase;
   padding: 20px;
@@ -415,7 +415,7 @@ p span {
 .oswald-main p {
   font-family: 'Oswald', sans-serif;
   color: white;
-  font-weight: 400;
+  font-weight: 100;
   font-style: italic;
   font-size: 18px;
   text-transform: none;
