@@ -8,7 +8,7 @@
     <meta name="robots" content="index, nofollow">
     <link rel="stylesheet" href="style.min.css" type="text/css" />
     <!-- fonts -->    
-    <link href="http://fonts.googleapis.com/css?family=Roboto:400,300,100,700,900|Lato:100,300,400,100italic,300italic,400italic|Old+Standard+TT:400,400italic,700|Source+Sans+Pro:200,300,400,900,400italic,600italic|Noto+Sans:400,700,400italic" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Roboto:400,300,100,700,900|Lato:100,300,400,100italic,300italic,400italic|Old+Standard+TT:400,400italic,700|Source+Sans+Pro:200,300,400,900,400italic,600italic|Noto+Sans:400,700,400italic|Oswald:400,700,300" rel="stylesheet" type="text/css">
     
     </head>
 <body>

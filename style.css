@@ -380,6 +380,48 @@ p span {
   
 }
 
+/*
+//
+//
+// OSWALD
+//
+//
+*/
+
+
+.oswald-main {
+  background-color: #34495e;
+  height: 100%;
+  min-height: 100vh;
+  width: 100vw;
+  
+}
+
+
+  
+  
+
+.oswald-main h1 {
+  font-family: 'Oswald', sans-serif;
+  color: white;
+  font-weight: 300;
+  font-size: 36px;
+  text-transform: uppercase;
+  padding: 20px;
+  text-align: center;
+}
+
+
+.oswald-main p {
+  font-family: 'Oswald', sans-serif;
+  color: white;
+  font-weight: 400;
+  font-style: italic;
+  font-size: 18px;
+  text-transform: none;
+  text-align: center;
+  
+}
 
 
 /*
@@ -399,8 +441,6 @@ p span {
   height: 100%;
   min-height: 100vh;
   width: 100vw;
-    
-    
   
 }
 
