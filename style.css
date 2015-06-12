@@ -55,6 +55,7 @@ body {
     min-height: 500px;
     height: 100%;
     cursor: pointer;
+    
 }
 
 .body:hover {
@@ -62,6 +63,10 @@ body {
 }
 .body {
     
+    
+     height: 100%;
+     min-height: 100vh;
+     width: 100vw;
 
     
     -moz-animation-name: fadeIn;
@@ -191,7 +196,8 @@ p {
   font-size: 18px;
   text-transform: none;
   text-align: center;
-  
+      
+    
 }
 
 
@@ -286,13 +292,7 @@ p span {
 
 .end-main {
   background-color: #ecf0f1;
-  height: 100%;
-  min-height: 100vh;
-  width: 100vw;
-    
-    
-        
-    
+ 
   
 }
 
@@ -303,21 +303,14 @@ p span {
 .end-main h1 {
   font-family: 'Noto Sans', sans-serif;
   color: #95a5a6;
-  font-weight: 700;
-  font-size: 36px;
-  text-transform: uppercase;
-  padding: 20px;
-  text-align: center;
+ 
 }
 
 
 .end-main p {
   font-family: 'Noto Sans', sans-serif;
   color: #95a5a6;
-  font-weight: 400;
-  font-size: 18px;
-  text-transform: none;
-  text-align: center;
+  
   
 }
 
@@ -333,33 +326,17 @@ p span {
 
 .abril-main {
   background-color: #FFD54F;
-  height: 100%;
-  min-height: 100vh;
-  width: 100vw;
     
-    
-  
 }
 
 
 .abril-main h1 {
   font-family: 'Abril Fatface', cursive;
-  color: white;
-  font-weight: 700;
-  font-size: 36px;
-  text-transform: uppercase;
-  padding: 20px;
-  text-align: center;
 }
 
 
 .abril-main p {
   font-family: 'Abril Fatface', cursive;
-  color: white;
-  font-weight: 100;
-  font-size: 18px;
-  text-transform: none;
-  text-align: center;
   
 }
 
@@ -384,11 +361,6 @@ p span {
 
 .roboto-main {
   background-color: #EF5350;
-  height: 100%;
-  min-height: 100vh;
-  width: 100vw;
-    
-    
   
 }
 
@@ -397,23 +369,12 @@ p span {
 
 .roboto-main h1 {
   font-family: 'Roboto', sans-serif;
-  color: white;
-  font-weight: 700;
-  font-size: 36px;
-  text-transform: uppercase;
-  padding: 20px;
-  text-align: center;
 }
 
 
 .roboto-main p {
   font-family: 'Roboto', sans-serif;
-  color: white;
-  font-weight: 100;
-  font-size: 18px;
-  text-transform: none;
-  text-align: center;
-  
+ 
 }
 
 
@@ -428,9 +389,6 @@ p span {
 
 .montserrat-main {
   background-color: #42A5F5;
-  height: 100%;
-  min-height: 100vh;
-  width: 100vw;
   
 }
 
@@ -438,23 +396,13 @@ p span {
 
 .montserrat-main h1 {
   font-family: 'Montserrat', sans-serif;
-  color: white;
-  font-weight: 400;
-  font-size: 36px;
-  text-transform: uppercase;
-  padding: 20px;
-  text-align: center;
+  text-transform: none;
+
 }
 
 
 .montserrat-main p {
   font-family: 'Montserrat', sans-serif;
-  color: white;
-  font-weight: 100;
-  font-style: italic;
-  font-size: 18px;
-  text-transform: none;
-  text-align: center;
   
 }
 
@@ -472,9 +420,6 @@ p span {
 
 .oswald-main {
   background-color: #34495e;
-  height: 100%;
-  min-height: 100vh;
-  width: 100vw;
   
 }
 
@@ -484,23 +429,12 @@ p span {
 
 .oswald-main h1 {
   font-family: 'Oswald', sans-serif;
-  color: white;
   font-weight: 400;
-  font-size: 36px;
-  text-transform: uppercase;
-  padding: 20px;
-  text-align: center;
 }
 
 
 .oswald-main p {
   font-family: 'Oswald', sans-serif;
-  color: white;
-  font-weight: 100;
-  font-style: italic;
-  font-size: 18px;
-  text-transform: none;
-  text-align: center;
   
 }
 
@@ -519,9 +453,6 @@ p span {
 
 .lato-main {
   background-color: #1abc9c;
-  height: 100%;
-  min-height: 100vh;
-  width: 100vw;
   
 }
 
@@ -531,28 +462,16 @@ p span {
 
 .lato-main h1 {
   font-family: 'Lato', sans-serif;
-  color: white;
   font-weight: 300;
-  font-size: 36px;
-  text-transform: uppercase;
-  padding: 20px;
-  text-align: center;
+
 }
 
 
 .lato-main p {
   font-family: 'Lato', sans-serif;
-  color: white;
-  font-weight: 400;
-  font-style: italic;
-  font-size: 18px;
-  text-transform: none;
-  text-align: center;
+
   
 }
-
-
-
 
 
 
@@ -571,9 +490,7 @@ p span {
 
 .oldstandard-main {
   background-color: #3498db;
-  height: 100%;
-  min-height: 100vh;
-  width: 100vw;
+
     
 
 }
@@ -582,23 +499,14 @@ p span {
 
 .oldstandard-main h1 {
   font-family: 'Old Standard TT', sans-serif;
-  color: white;
-  font-weight: 700;
-  font-size: 36px;
-  text-transform: uppercase;
-  padding: 20px;
-  text-align: center;
+  font-weight: 800;
+
 }
 
 
 .oldstandard-main p {
   font-family: 'Old Standard TT', sans-serif;
-  color: white;
-  font-weight: 400;
-  font-style: italic;
-  font-size: 18px;
-  text-transform: none;
-  text-align: center;
+
   
 }
 
@@ -620,9 +528,7 @@ p span {
 
 .sourcesans-main {
   background-color: #2ecc71;
-  height: 100%;
-  min-height: 100vh;
-  width: 100vw;
+
     
     
 }
@@ -632,23 +538,14 @@ p span {
 
 .sourcesans-main h1 {
   font-family: 'Source Sans Pro', sans-serif;
-  color: white;
   font-weight: 200;
-  font-size: 36px;
-  text-transform: uppercase;
-  padding: 20px;
-  text-align: center;
+
 }
 
 
 .sourcesans-main p {
   font-family: 'Source Sans Pro', sans-serif;
-  color: white;
-  font-weight: 600;
-  font-style: italic;
-  font-size: 18px;
-  text-transform: none;
-  text-align: center;
+
   
 }
 
