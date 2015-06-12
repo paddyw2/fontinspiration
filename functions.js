@@ -16,7 +16,7 @@ $(document).ready(function() {
     // enter number of files to cycle through - this should reflect line 45
     // and below, otherwise "no more files error" will show
     
-    var numberFiles = 6;
+    var numberFiles = 7;
     
     // end of variables
     
@@ -160,6 +160,13 @@ $(document).ready(function() {
                 $(body).empty();
                 $(body).load("abril.php");
             }
+            
+               else if (randomNumber === 7) {
+
+                $(body).empty();
+                $(body).load("montserrat.php");
+            }
+
 
             else {
 

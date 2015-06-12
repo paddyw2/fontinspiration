@@ -9,9 +9,6 @@
     <p>With small text like this, everyone is a winner.</p>
     
   </div>
-    
-    
-  
-  
+ 
 
 </div>
