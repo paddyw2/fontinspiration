@@ -104,8 +104,7 @@ body {
   0%   { opacity: 0; }
   100% { opacity: 1; }
 }
-
-   
+ 
     
 
 .font-title h1:hover {
@@ -314,7 +313,7 @@ p span {
 
 
 .abril-main {
-  background-color: #FFD54F;
+  background-color: #2C3E50;
     
 }
 
@@ -425,7 +424,7 @@ p span {
 
 
 .raleway-main {
-  background-color: #7A789C;
+  background-color: #00B16A;
   
 }
   
@@ -441,6 +440,34 @@ p span {
 .raleway-main p {
   font-family: 'Raleway', sans-serif;
 
+}
+
+
+/*
+//
+//
+// LIBRE BASKERVILLE
+//
+//
+*/
+
+
+
+.baskerville-main {
+  background-color: #F2784B;
+  
+}
+
+.baskerville-main h1 {
+  font-family: 'Libre Baskerville', sans-serif;
+  font-weight: 300;
+
+}
+
+
+.baskerville-main p {
+  font-family: 'Libre Baskerville', sans-serif;
+  
 }
 
 

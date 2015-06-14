@@ -16,7 +16,7 @@ $(document).ready(function() {
     // enter number of files to cycle through - this should reflect line 45
     // and below, otherwise "no more files error" will show
     
-    var numberFiles = 8;
+    var numberFiles = 9;
     
     // end of variables
     
@@ -171,6 +171,12 @@ $(document).ready(function() {
 
                 $(body).empty();
                 $(body).load("raleway.php");
+            }
+            
+             else if (randomNumber === 9) {
+
+                $(body).empty();
+                $(body).load("baskerville.php");
             }
 
 
