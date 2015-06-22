@@ -358,6 +358,41 @@ p span {
 }
 
 
+
+/*
+//
+//
+// CABIN
+//
+//
+*/
+
+
+
+
+.cabin-main {
+  background-color: #DF5A49;
+  
+}
+
+
+.cabin-main h1 {
+  font-family: 'Cabin', sans-serif;
+}
+
+
+.cabin-main p {
+  font-family: 'Cabin', sans-serif;
+ 
+}
+
+
+
+
+
+
+
+
 /*
 //
 //
@@ -454,7 +489,7 @@ p span {
 
 
 .baskerville-main {
-  background-color: #F2784B;
+  background-color: #16a085;
   
 }
 

@@ -12,8 +12,4 @@
     
   </div>
     
-    
-  
-  
-  <!-- <?php include ("fonts.php"); ?> -->
 </div>
