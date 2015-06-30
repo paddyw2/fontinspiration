@@ -9,7 +9,7 @@
     <meta name="robots" content="NOODP">
     <link rel="stylesheet" href="style.min.css" type="text/css" />
     <!-- fonts -->    
-    <link href="http://fonts.googleapis.com/css?family=Roboto:400,300,100,700,900|Lato:100,300,400,100italic,300italic,400italic|Old+Standard+TT:400,400italic,700|Source+Sans+Pro:200,300,400,900,400italic,600italic|Noto+Sans:400,700,400italic|Oswald:400,700,300|Abril+Fatface|Raleway:800,100,200,300|Montserrat:400,700|Libre+Baskerville:400,700,400italic|Cabin:400,500,600,700,400italic" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Roboto:400,300,100,700,900|Lato:100,300,400,100italic,300italic,400italic|Old+Standard+TT:400,400italic,700|Source+Sans+Pro:200,300,400,900,400italic,600italic|Noto+Sans:400,700,400italic|Oswald:400,700,300|Abril+Fatface|Raleway:800,100,200,300|Montserrat:400,700|Libre+Baskerville:400,700,400italic|Cabin:400,500,600,700,400italic|PT+Sans:400,700" rel="stylesheet" type="text/css">
     
     </head>
 <body>

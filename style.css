@@ -371,7 +371,7 @@ p span {
 
 
 .cabin-main {
-  background-color: #DF5A49;
+  background-color: #404040;
   
 }
 
@@ -387,6 +387,35 @@ p span {
 }
 
 
+
+
+
+/*
+//
+//
+// PT SANS
+//
+//
+*/
+
+
+
+
+.ptsans-main {
+  background-color: #00A19A;
+  
+}
+
+
+.ptsans-main h1 {
+  font-family: 'PT Sans', sans-serif;
+}
+
+
+.ptsans-main p {
+  font-family: 'PT Sans', sans-serif;
+ 
+}
 
 
 

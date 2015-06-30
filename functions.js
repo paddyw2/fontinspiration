@@ -16,7 +16,7 @@ $(document).ready(function() {
     // enter number of files to cycle through - this should reflect line 45
     // and below, otherwise "no more files error" will show
     
-    var numberFiles = 10;
+    var numberFiles = 11;
     
     // end of variables
     
@@ -182,6 +182,12 @@ $(document).ready(function() {
 
                 $(body).empty();
                 $(body).load("cabin.php");
+            }
+            
+             else if (randomNumber === 11) {
+
+                $(body).empty();
+                $(body).load("ptsans.php");
             }
 
             else {
